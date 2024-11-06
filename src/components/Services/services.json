@@ -1,0 +1,146 @@
+[
+  {
+    "key": 4,
+    "title": "Asesorías académicas",
+    "text": "TUTOR EN CASA",
+    "imgPath": "/mother-helping-son-with-homework.jpg",
+    "list": [
+      {
+        "id": 41,
+        "title": "Tutor en Casa",
+        "text": "Clases personalizadas con expertos para todas las edades",
+        "imgPath": "/mother-helping-son-with-homework.jpg"
+      }
+    ]
+  },
+  {
+    "key": 1,
+    "title": "Formación y capacitación pedagógica y empresarial",
+    "imgPath": "/high-angle-childrens-with-books-looking-each-other.jpg",
+    "list": [
+      {
+        "id": 11,
+        "title": "Cátedra Municipal",
+        "text": "Con enfoque sistémico del territorio",
+        "imgPath": ""
+      },
+      {
+        "id": 12,
+        "title": "PILEO",
+        "text": "Proyecto Institucional de Lectura, Escritura y Oralidad",
+        "imgPath": "/high-angle-childrens-with-books-looking-each-other.jpg"
+      },
+      {
+        "id": 13,
+        "title": "Inmersión local en inglés",
+        "text": "Con certificación internacional",
+        "imgPath": "/young-people-with-books-posing2.jpg"
+      },
+      {
+        "id": 14,
+        "title": "Neuromarketing político y empresarial",
+        "text": "Estrategia de innovación para el mercado entre lo racional y lo emocional",
+        "imgPath": "/people-taking-part-business-event.jpg"
+      },
+      {
+        "id": 15,
+        "title": "Fortalecimiento motivacional empresarial",
+        "text": "Liderazgo, trabajo en equipo y bienestar emocional comercial",
+        "imgPath": "/workers-getting-back-office.jpg"
+      }
+    ]
+  },
+  {
+    "key": 2,
+    "title": "Asesorías y Consultoría pedagógica",
+    "imgPath": "/workers-getting-back-office.jpg",
+    "list": [
+      {
+        "id": 21,
+        "title": "Plataforma Pedagógica Activa",
+        "text": "Pilares educativos, modelos y estrategias didácticas",
+        "imgPath": ""
+      },
+      {
+        "id": 22,
+        "title": "Proyectos Pedagógicos de Aula",
+        "text": "Investigación educativa y diseño de guías",
+        "imgPath": ""
+      },
+      {
+        "id": 23,
+        "title": "Metodología STEAM + H",
+        "text": "Ciencia, tecnología, arte, medio ambiente y humanidades",
+        "imgPath": ""
+      },
+      {
+        "id": 24,
+        "title": "Estrategias de Lectura Crítica",
+        "text": "Modelos de lectura y mentefactos",
+        "imgPath": ""
+      },
+      {
+        "id": 25,
+        "title": "Asesorías en Estilos de Aprendizaje",
+        "text": "Aplicación de test taxonómicos",
+        "imgPath": ""
+      },
+      {
+        "id": 26,
+        "title": "Proyectos Educativos Especiales",
+        "text": "Proyectos fundamentales en educación",
+        "imgPath": ""
+      },
+      {
+        "id": 27,
+        "title": "Gestión Pedagógica",
+        "text": "PEI, SIE, diseño curricular por competencias",
+        "imgPath": ""
+      },
+      {
+        "id": 28,
+        "title": "Competencias para Directivos",
+        "text": "Gestión directiva, académica, administrativa y comunitaria",
+        "imgPath": ""
+      },
+      {
+        "id": 29,
+        "title": "Enfoque de las 4 A",
+        "text": "Asequibilidad, accesibilidad, adaptabilidad y aceptabilidad",
+        "imgPath": ""
+      }
+    ]
+  },
+  {
+    "key": 3,
+    "title": "Asesorías psicológicas",
+    "imgPath": "/relaxing-time-joyful-young-brunette-woman-having-meditation-table-office-surround-flying-papers-taking-break-pause-smart-student-relaxation-great-success-dreaming.jpg",
+    "list": [
+      {
+        "id": 31,
+        "title": "Recupera la Calma",
+        "text": "Programa de salud mental para tu bienestar",
+        "imgPath": "/relaxing-time-joyful-young-brunette-woman-having-meditation-table-office-surround-flying-papers-taking-break-pause-smart-student-relaxation-great-success-dreaming.jpg"
+      },
+      {
+        "id": 32,
+        "title": "Atención Psicoeducativa",
+        "text": "Intervención psico-emocional para mejorar adaptación educativa",
+        "imgPath": "/kid-doing-occupational-therapy-session.jpg"
+      }
+    ]
+  },
+  {
+    "key": 5,
+    "title": "Eventos académicos",
+    "imgPath": "/kid-doing-occupational-therapy-session.jpg",
+    "list": [
+      {
+        "id": 51,
+        "title": "Cátedra Municipal",
+        "text": "Con enfoque sistémico del territorio",
+        "imgPath": ""
+      }
+    ]
+  }
+]

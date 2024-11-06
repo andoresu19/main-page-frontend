@@ -1,0 +1,68 @@
+.button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 30px;
+  font-size: 15px;
+  background: #2994f2;
+  color: #ffffff;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all ease 0.1s;
+  box-shadow: 0px 5px 0px 0px #72b6f2;
+  outline: none;
+}
+
+.button:hover {
+  opacity: 0.9;
+}
+
+.button:active {
+  transform: translateY(5px);
+  box-shadow: 0px 0px 0px 0px #a29bfe;
+}
+
+.blue {
+  background: #2994f2;
+  box-shadow: 0px 5px 0px 0px #72b6f2;
+}
+
+.yellow {
+  background: #f2ae41;
+  box-shadow: 0px 5px 0px 0px #f4cc8b;
+}
+
+.green {
+  background: #3da6a1;
+  box-shadow: 0px 5px 0px 0px #47bfb9;
+}
+
+.pink {
+  background: #FF7E7E;
+  box-shadow: 0px 5px 0px 0px #FFA5A5;
+}
+
+.grey {
+  background: #3f3f3f;
+  box-shadow: 0px 5px 0px 0px #666666;
+}
+
+.transparent {
+  background: transparent;
+  color: #3f3f3f;
+  font-weight: medium;
+  box-shadow: none;
+}
+
+/* .blue:hover { */
+/* background: #72B6F2; */
+/* } */
+/* .yellow:hover { */
+/* background: #F4CC8B; */
+/* } */
+/* .green:hover { */
+/* background: #47BFB9; */
+/* } */
+/* .transparent:hover { */
+/* background: transparent; */
+/* color: #8c8c8c; */
+/* } */

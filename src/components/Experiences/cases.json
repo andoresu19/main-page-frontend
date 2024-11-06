@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nombre": "Colegio San Gabriel",
+    "servicio": "Implementación de Proyectos Pedagógicos de Aula",
+    "comentario": "La implementación de proyectos pedagógicos de aula ha transformado nuestras clases, haciendo que los estudiantes se involucren más en su aprendizaje diario."
+  },
+  {
+    "id": 2,
+    "nombre": "Ana María Rodríguez",
+    "servicio": "Inmersión a la Felicidad",
+    "comentario": "Los encuentros de convivencia nos han enseñado a vivir en armonía. Fue una experiencia que cambió la dinámica de nuestro grupo."
+  },
+  {
+    "id": 3,
+    "nombre": "Universidad Nueva Horizonte",
+    "servicio": "Neuromarketing Político y Empresarial",
+    "comentario": "El curso de neuromarketing ha revolucionado nuestra manera de conectar con los estudiantes, combinando perfectamente lo emocional y lo racional."
+  },
+  {
+    "id": 4,
+    "nombre": "José Luis Pérez",
+    "servicio": "Atención Psicoeducativa",
+    "comentario": "Gracias a la atención psicoeducativa, mi hijo ha mejorado su concentración y rendimiento académico en poco tiempo. ¡Altamente recomendable!"
+  },
+  {
+    "id": 5,
+    "nombre": "Empresa Innovatek",
+    "servicio": "Fortalecimiento Motivacional Empresarial",
+    "comentario": "El equilibrio psicoemocional logrado con el fortalecimiento motivacional ha aumentado significativamente la productividad y el sentido de pertenencia en nuestro equipo."
+  },
+  {
+    "id": 6,
+    "nombre": "Colegio Nueva América",
+    "servicio": "Metodología STEAM + H",
+    "comentario": "La integración de la metodología STEAM + H ha potenciado la creatividad de nuestros estudiantes, llevándolos a explorar nuevas áreas de conocimiento."
+  },
+  {
+    "id": 7,
+    "nombre": "Laura Martínez",
+    "servicio": "Programa Tutor en Casa",
+    "comentario": "Las clases personalizadas del programa Tutor en Casa han sido fundamentales para que mi hijo reciba la atención que necesita en sus estudios."
+  },
+  {
+    "id": 8,
+    "nombre": "Colegio Monteverde",
+    "servicio": "Plataforma Pedagógica Activa",
+    "comentario": "Con la plataforma pedagógica activa, nuestros docentes han renovado sus estrategias, haciendo las clases más dinámicas y efectivas."
+  },
+  {
+    "id": 9,
+    "nombre": "Empresa TecnoGlobal",
+    "servicio": "Cátedra Municipal",
+    "comentario": "La cátedra municipal nos dio una nueva perspectiva sobre cómo integrar el entorno local en nuestras operaciones diarias. ¡Una experiencia muy enriquecedora!"
+  },
+  {
+    "id": 10,
+    "nombre": "Isabel Gómez",
+    "servicio": "Asesorías en Estilos de Aprendizaje",
+    "comentario": "Gracias a las asesorías en estilos de aprendizaje, ahora comprendo mejor cómo ayudar a mis estudiantes a alcanzar su máximo potencial."
+  },
+  {
+    "id": 11,
+    "nombre": "Universidad Central",
+    "servicio": "Eventos Académicos (Seminarios)",
+    "comentario": "Los seminarios organizados por DERTAM fueron impecables y nos proporcionaron herramientas valiosas para nuestra gestión académica."
+  },
+  {
+    "id": 12,
+    "nombre": "Corporación Educativa Los Pinos",
+    "servicio": "Fortalecimiento de Proyectos Educativos Especiales",
+    "comentario": "El fortalecimiento de nuestros proyectos educativos ha sido clave para mejorar la calidad de la enseñanza y la participación estudiantil."
+  }
+]

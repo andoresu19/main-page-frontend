@@ -1,0 +1,35 @@
+.label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.option {
+  background: #cfcfcf;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  cursor: pointer;
+  margin: 0;
+
+  user-select: none;
+  font-size: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.option__input {
+  visibility: hidden;
+  display: none;
+}
+.option:hover {
+  border: 1px solid #333333;
+}
+
+.option_active {
+  background: #333333;
+  color: transparent;
+}

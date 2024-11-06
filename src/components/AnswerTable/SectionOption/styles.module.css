@@ -1,0 +1,13 @@
+.container {
+  height: 100%;
+  display: grid;
+  gap: 5px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.num {
+  font-weight: bold;
+  font-size: 13px;
+}
